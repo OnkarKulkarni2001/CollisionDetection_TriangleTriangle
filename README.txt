@@ -1,7 +1,0 @@
-TEAM MEMBERS: Onkar Kulkarni (1286580)
-Deep Shah (1297198)
-
-CAMCONTROLS: SHIFT + WASDQE : Movement
-ENTITY_CONTROLS: 
-WASDQE : Velocity
-SPACE : Kill Engine
